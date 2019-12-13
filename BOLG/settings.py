@@ -25,7 +25,7 @@ SECRET_KEY = '!rviu^x%&ib_lj)#anmn(px759j52v%5^ewdnh2*)0cocj+7(6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.liuliwei.com']
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
