@@ -46,7 +46,7 @@ b {
 }
 
 a {
-    color: #333;
+    color: #939393;
 }
 
 a:hover, a:focus {
@@ -456,7 +456,7 @@ img {
 
 #site-footer {
     padding-top: 10px;
-    padding: 0 0 1.5em 0;
+    padding: 0 0 0.1px 0;
 }
 
 .copyright {
