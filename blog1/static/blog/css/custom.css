@@ -76,7 +76,7 @@ p {
 }
 
 .zbeian{
-    width:400px;
+    width:500px;
     margin:0 auto; 
     padding:5px 0;
 }
@@ -84,7 +84,7 @@ p {
 .beian{
     height:20px;
     line-height:20px;
-    margin: 0px 0px 0px 40px; 
+    margin: 0px 0px 0px 10px; 
     color:#939393;
     font-size: 12px;
 }
