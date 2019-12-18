@@ -46,7 +46,7 @@ b {
 }
 
 a {
-    color: #939393;
+    color: #000;
 }
 
 a:hover, a:focus {
@@ -74,6 +74,14 @@ p {
 #page p {
     margin-bottom: 25px;
 }
+
+#huise{
+    height:20px;
+    line-height:20px;
+    margin: 0px 0px 0px 40px; 
+    color:#939393;
+}
+
 
 .page-title {
     text-align: center;
